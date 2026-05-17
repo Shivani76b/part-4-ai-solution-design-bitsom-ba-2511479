@@ -1,5 +1,11 @@
 # Part 4: AI Solution Design for a Business Problem
 
+## Dataset Source
+The dataset used in this project is available at:
+https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+
+Note: Dataset files are not included in this repository as per submission guidelines.
+
 ## Domain: Healthcare
 ## Problem: Medical Image Triage Using CNN
 
